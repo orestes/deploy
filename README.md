@@ -1,6 +1,9 @@
 Ansistrano
 ==========
 
+![ansible-galaxy](https://img.shields.io/ansible/role/1387.svg)
+![ansible-galaxy](https://img.shields.io/ansible/role/2413.svg)
+
 **ansistrano.deploy** and **ansistrano.rollback** are Ansible roles to easily manage the deployment process for scripting applications such as PHP, Python and Ruby. It's an Ansible port for Capistrano.
 
 History
